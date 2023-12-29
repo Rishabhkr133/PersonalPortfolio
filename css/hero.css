@@ -1,0 +1,28 @@
+#hero {
+    
+      background-size:cover;
+      background-position:right;
+      position: relative;
+      
+
+}
+
+#hero .hero{
+
+
+    max-width: 1500px;
+    margin: 0  auto;
+    padding: 0  50px;
+}
+#hero h1{
+    font-size: 4rem;
+    font-weight: bold;
+    position: relative;
+    /*colour; transparent;*/
+
+}
+#hero .heroimage{
+   right: 500px;
+    
+}
+
